@@ -1,0 +1,1 @@
+This is the program for paper Hierarchical Sampling for Multi-Instance Ensemble Learning. 
