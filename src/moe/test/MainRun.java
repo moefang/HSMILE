@@ -84,7 +84,7 @@ public class MainRun {
 	
 	public static void main(String[] args) {
 		
-		// a example for running Musk1 data set.
+		// an example for running Musk1 data set.
 		MainRun mr = new MainRun();
 		String inputFile = "musk1.arff";
 		String resultFile ="musk1mioptball.csv";
